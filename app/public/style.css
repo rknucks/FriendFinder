@@ -5,7 +5,7 @@ body {
 #main {
     height: 500px;
     background-color: #ff9900;
-    width: 1200px;
+    max-width: 1200px;
     text-align: center;
 }
 h1 {
@@ -23,7 +23,7 @@ h3 {
 footer {
 	text-align: center;
     background: yellow;
-    width: 1195px;
+    max-width: 1195px;
     margin-left: -1%;
     padding: 30px;
     -webkit-box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.2);
